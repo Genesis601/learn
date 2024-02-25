@@ -1,0 +1,38 @@
+.body {
+    padding: 50px;
+    position: relative;
+}
+
+
+.Form {
+  padding: 70px;
+    margin:0 auto;
+    max-width: 500px;
+    box-shadow: rgb(57, 57, 58);
+    background-color: rgb(238, 232, 232);
+
+ }
+
+.form-inputs {
+    margin-top: 20px;
+}
+
+.form-box {
+   width: 15rem;
+   height: 1.5rem;
+   border-radius: 10px; 
+   border-color: rgb(199, 189, 189);
+   border:1px solid black;
+}
+
+.form-submit {
+  background-color: blue;
+  color: rgb(241, 233, 233);
+  height: 30px;
+  width: 80px;
+}
+
+.form-submit:hover {
+    background-color: white;
+    color: black;
+}
